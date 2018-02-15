@@ -1,4 +1,4 @@
-var p=1;
+let p=1;
 console.log('p',p);
 function ab(){
   var p = 2;
